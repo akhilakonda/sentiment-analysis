@@ -3,6 +3,7 @@ Sentimental Analysis is a AI/ML project that is used to detect the sentiment or 
 
 ## Steps to install the project
 **step 1**: Execute the below command.
+
 **In Colab**:
 ```
 !pip install torch torchvision torchaudio transformers
